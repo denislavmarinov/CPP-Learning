@@ -62,7 +62,3 @@
 ### 15. Multiplayer Online Game Server
 **Description:** Build a simple multiplayer game where multiple players can connect and interact over a network.  
 **Concepts Covered:** Server-client architecture, socket programming, concurrency management.
-
----
-
-Each of these projects will strengthen your skills and enhance your CV. If you need detailed guidance on any specific project, let me know! 🚀
