@@ -34,3 +34,4 @@
 #Code blocks project file
 *.cbp
 *.depend
+*.layout
